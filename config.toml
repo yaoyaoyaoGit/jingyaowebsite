@@ -1,0 +1,39 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "上海晶耀光电科技有限公司"
+publishDir = "docs"
+
+[[menu.main]]
+	name = "走进晶耀"
+	url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "产品中心"
+    url = "/product/"
+    weight = 2
+
+[[menu.main]]
+    name = "制造中心"
+    url = "/manufacture/"
+    weight = 3
+
+[[menu.main]]
+    name = "研发中心"
+    url = "/research/"
+    weight = 4
+
+[[menu.main]]
+    name = "合作伙伴"
+    url = "/partner/"
+    weight = 5
+
+[[menu.main]]
+    name = "招贤纳士"
+    url = "/careers/"
+    weight = 6
+
+[[menu.main]]
+    name = "商业合作"
+    url = "/contact/"
+    weight = 7
