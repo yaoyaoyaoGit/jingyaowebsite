@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on 上海晶耀光电科技有限公司</title>
+    <link>https://yaoyaoyaogit.github.io/jingyaowebsite/products/</link>
+    <description>Recent content in Products on 上海晶耀光电科技有限公司</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Aug 2019 22:04:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://yaoyaoyaogit.github.io/jingyaowebsite/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>大灯LED模组</title>
+      <link>https://yaoyaoyaogit.github.io/jingyaowebsite/products/biglight/</link>
+      <pubDate>Sat, 10 Aug 2019 21:39:53 -0400</pubDate>
+      
+      <guid>https://yaoyaoyaogit.github.io/jingyaowebsite/products/biglight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>车前顶灯</title>
+      <link>https://yaoyaoyaogit.github.io/jingyaowebsite/products/light2/</link>
+      <pubDate>Sat, 10 Aug 2019 22:04:23 -0400</pubDate>
+      
+      <guid>https://yaoyaoyaogit.github.io/jingyaowebsite/products/light2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>转向灯</title>
+      <link>https://yaoyaoyaogit.github.io/jingyaowebsite/products/light3/</link>
+      <pubDate>Sat, 10 Aug 2019 22:04:25 -0400</pubDate>
+      
+      <guid>https://yaoyaoyaogit.github.io/jingyaowebsite/products/light3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

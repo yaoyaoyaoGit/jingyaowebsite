@@ -1,0 +1,72 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  font-size: 14px;
+  /* font-size: 0.9375rem; */
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  color: #535353;
+  padding: 0;
+}
+
+#partners-carousel-control-prev>.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+#partners-carousel-control-next>.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+a.navbar-brand, a.nav-brand:visited, a.nav-brand:hover {
+  color: #1e237f;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+li.nav-item {
+  font-size: 1.15rem;
+  font-weight: bold;
+}
+
+a.nav-link, a.nav-link:visited, a.nav-link:hover {
+  color: #18314f;
+}
+
+#partner-inner {
+  width: 80%;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-title>a {
+  color: #18314f;
+}
+
+.card-text {
+  font-size: 12px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  max-height: auto;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #18314f;
+}
+
+p {
+  line-height: 24px;
+}
